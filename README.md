@@ -1,6 +1,6 @@
 # AML Mid Term Project 2203
 
-## Group Members
+Group Members
 1. Rutvick Rajnibhai Savaliya
 2. Pranesh Balaji Venkatachalamurthy
 3. Christin Kaithavalapil Paul
